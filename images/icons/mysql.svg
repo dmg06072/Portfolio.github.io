@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .bg { fill: #4479a1; }
+      .txt { fill: #ffffff; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; }
+    </style>
+  </defs>
+  <rect class="bg" x="8" y="8" width="112" height="112" rx="24" />
+  <text class="txt" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">MySQL</text>
+</svg>
